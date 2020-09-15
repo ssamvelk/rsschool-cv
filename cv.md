@@ -12,6 +12,23 @@ Mail: **ssamvelk@gmail.com**
 
 My main goal is to become a Full stack web developer and be happy with my family.
 
+## Skills
+
+◾◾◾◾◾ HTML (Pug)  
+◾◾◾◾◾ CSS  (SCSS)       
+◾◾◾◾◾ Photoshop, Figma  
+◾◾◾◾◽ JS    
+◾◾◾◽◽ TS   
+◾◾◾◽◽ Jest   
+◾◾◾◽◽ GIT  
+◾◾◽◽◽ React JS  
+◾◽◽◽◽ C++, Python, PHP, SQL ...  
+
+## Code examples
+
+* [Toxic](https://ssamvelk.github.io/toxin/)
+* [slider plugin](https://ssamvelk.github.io/slider-plugin/)  
+
 ## Education
 
 Saratov Socio-Economic Institute.
